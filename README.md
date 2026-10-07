@@ -41,7 +41,7 @@ The images are not in this repository because they show real people.
 
 | Status | Images | Checked by hand |
 |---|---|---|
-| ok | 67 | |
+| ok | 67 |all looked fine |
 | blurry | 10 | 9 correct, 1 looked fine |
 | multiple_faces | 8 | 6 correct, 2 had only one face |
 | no_face | 3 | all correct |
